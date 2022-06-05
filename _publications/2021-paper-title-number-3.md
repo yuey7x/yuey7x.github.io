@@ -1,6 +1,6 @@
 ---
 title: "Nonstationary Bandit Learning via Predictive Sampling"
-collection: preprints
+collection: archive
 #permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'with Benjamin Van Roy and Kuang Xu \\
 [Link to arXiv](https://arxiv.org/abs/2205.01970)
