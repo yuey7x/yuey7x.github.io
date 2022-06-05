@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Gaussian Imagination in Bandit Learning"
 collection: publications
 # permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'with Adithya M. Devraj, Benjamin Van Roy, and Kuang Xu'
