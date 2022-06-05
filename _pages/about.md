@@ -18,3 +18,8 @@ Contact
 ======
 Email: yueyl [at] stanford.edu
 
+Activities
+======
+Stanford Graduate Society of Women Engineers, Professional Development Chair, 2021-. 
+Feiyu Theatre, active member, 2022-. 
+
