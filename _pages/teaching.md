@@ -12,9 +12,9 @@ redirect_from:
 Teaching Experience
 ======
 I was a teaching assitant for: 
-* MS&E 338 Reinforcement learning: frontiers. 
-* EE 277 Reinforcement learning: behaviors and applications.
-* MS&E 2
-* EE 364A
+* MS&E 338 Reinforcement Learning: Frontiers. 
+* EE 277 Reinforcement Learning: Behaviors and Applications.
+* MS&E 232 Introduction to Game Theory and Market Design.
+* EE 364A Convex Optimization I. 
 
 
