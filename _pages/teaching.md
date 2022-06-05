@@ -12,9 +12,8 @@ redirect_from:
 Teaching Experience
 ======
 I was a teaching assitant for: 
-* MS&E 338 Reinforcement Learning: Frontiers. 
-* EE 277 Reinforcement Learning: Behaviors and Applications.
-* MS&E 232 Introduction to Game Theory and Market Design.
-* EE 364A Convex Optimization I. 
-
-
+* MS&E 338 Reinforcement Learning: Frontiers, 2022.  
+* EE 277 Reinforcement Learning: Behaviors and Applications, 2021. 
+* MS&E 226 Fundamentals of Data Science: Prediction, Inference, Causality, 2020. 
+* EE 364A Convex Optimization I, 2020. 
+* MS&E 232 Introduction to Game Theory and Market Design, 2019 & 2020. 
