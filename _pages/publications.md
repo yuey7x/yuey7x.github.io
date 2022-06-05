@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: defalt
 title: "Publications"
 permalink: /publications/
 author_profile: true
