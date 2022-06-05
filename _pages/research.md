@@ -1,7 +1,7 @@
 ---
 layout: archive
-# title: "CV"
-permalink: /publications/
+# title: "Research"
+permalink: /research/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,7 +11,7 @@ redirect_from:
 
 Preprints
 ======
-* Nonstationary bandit learning via predictive sampling, 2022. 
+* Nonstationary bandit learning via predictive sampling, 2022.  
   with Benjamin Van Roy, and Kuang Xu.
 * Gaussian imagination in bandit learning, 2022.  
   with Adithya M. Devraj, Benjamin Van Roy, and Kuang Xu. 
