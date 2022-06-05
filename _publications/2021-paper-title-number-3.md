@@ -1,8 +1,10 @@
 ---
 title: "Nonstationary Bandit Learning via Predictive Sampling"
-collection: archive
+# collection: archive
 #permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'with Benjamin Van Roy and Kuang Xu' 
+[Link to arXiv](https://arxiv.org/abs/2205.01970)
+
 # excerpt: 
 
 #date: 2015-10-01
@@ -11,6 +13,6 @@ excerpt: 'with Benjamin Van Roy and Kuang Xu'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 #This paper is about the number 3. The number 4 is left for future work.
-[Link to arXiv](https://arxiv.org/abs/2205.01970)
+# [Link to arXiv](https://arxiv.org/abs/2205.01970)
 
 # Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
