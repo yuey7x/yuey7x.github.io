@@ -1,8 +1,10 @@
 ---
-title: ["Nonstationary Bandit Learning via Predictive Sampling"](https://arxiv.org/abs/2205.01970)
+title: "Nonstationary Bandit Learning via Predictive Sampling"
 collection: preprints
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'with Benjamin Van Roy and Kuang Xu.'
+---
+[Link to arXiv]((https://arxiv.org/abs/2205.01970))
 #date: 2009-10-01
 # venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
