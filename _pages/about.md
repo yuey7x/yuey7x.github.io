@@ -22,5 +22,5 @@ Activities
 ======
 * Stanford Graduate Society of Women Engineers, Professional Development Chair, 2021-. 
 * Feiyu Theatre, active member, 2022-. 
-* MIT Undergraduate Society for Women in Mathematics, Secretary, Webmaster, 2010-2012. 
+* MIT Undergraduate Society for Women in Mathematics, Secretary & Webmaster, 2010-2012. 
 
