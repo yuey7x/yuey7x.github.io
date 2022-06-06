@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD Candidate at Stanford University, where I’m part of the Operations Research group in the department of Management Science and Engineering (MS&E). I’m advised by [Benjamin Van Roy](https://web.stanford.edu/~bvr/) and [Kuang Xu](http://web.stanford.edu/~kuangxu/). Previously, I received a B.A. degree in Mathematics from the Massachusetts Institute of Technology. 
+I am a fourth-year PhD Candidate at Stanford University, where I’m part of the Operations Research group in the department of Management Science and Engineering (MS&E). I’m advised by [Benjamin Van Roy](https://web.stanford.edu/~bvr/) and [Kuang Xu](http://web.stanford.edu/~kuangxu/). Previously, I received a B.A. degree in mathematics with a minor in economics and a minor in management sciences from the Massachusetts Institute of Technology. 
 
 Research Interests
 ======
