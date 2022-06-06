@@ -16,8 +16,9 @@ I was a teaching assitant for:
 * EE 277 Reinforcement Learning: Behaviors and Applications, 2021. 
 * MS&E 226 Fundamentals of Data Science: Prediction, Inference, Causality, 2020. 
 * EE 364A Convex Optimization I, 2020. 
-* MS&3 120 Probabilistic Analysis, 2020. 
 * MS&E 232 Introduction to Game Theory and Market Design, 2019 & 2020. 
+* MS&E 120 Probabilistic Analysis, 2019. 
+
 
 I was a tutor at:
 * Stanford Office of Accessible Education, 2017. 
