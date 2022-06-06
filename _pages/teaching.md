@@ -21,5 +21,5 @@ I was a teaching assitant for:
 
 
 I was a tutor at:
-* Stanford Office of Accessible Education, 2017. 
-* MIT Disability and Access Services, 2011. 
+* Office of Accessible Education, Stanford University.  
+* Disability and Access Services, Massachusetts Institute of Technology.  
