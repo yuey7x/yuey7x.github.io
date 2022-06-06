@@ -12,7 +12,7 @@ I am a fourth-year PhD Candidate at Stanford University, where I’m advised by 
 
 Research Interests
 ======
-My research interest lies in multi-armed bandit and reinforcement learning. In particular, I use tools from probability theory and information theory to gain insight in agent design and analysis. I’m particularly interested in how model misspecification and nonstationarity affects decision making. 
+My research interest lies in multi-armed bandit and reinforcement learning. In particular, I use tools from probability theory and information theory to gain insight in agent design and analysis. 
 
 Contact
 ======
