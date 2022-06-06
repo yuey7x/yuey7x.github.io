@@ -12,12 +12,12 @@ redirect_from:
 Teaching Experience
 ======
 I was a teaching assitant for: 
-* MS&E 338 Reinforcement Learning: Frontiers, 2022.  
-* EE 277 Reinforcement Learning: Behaviors and Applications, 2021. 
-* MS&E 226 Fundamentals of Data Science: Prediction, Inference, Causality, 2020. 
-* EE 364A Convex Optimization I, 2020. 
-* MS&E 232 Introduction to Game Theory and Market Design, 2019 & 2020. 
-* MS&E 120 Probabilistic Analysis, 2019. 
+* Reinforcement Learning: Frontiers, MS&E 338.  
+* Reinforcement Learning: Behaviors and Applications, EE277. 
+* Fundamentals of Data Science: Prediction, Inference, Causality, MS&E 226. 
+* Convex Optimization I, EE 364A. 
+* Introduction to Game Theory and Market Design, MS&E 232. 
+* Probabilistic Analysis, MS&E 120. 
 
 
 I was a tutor at:
