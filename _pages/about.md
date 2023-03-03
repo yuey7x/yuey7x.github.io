@@ -12,7 +12,7 @@ I am a fifth-year PhD Candidate at Stanford University, where I’m part of the 
 
 Research Interests
 ======
-My research interest lies in multi-armed bandit and reinforcement learning. In particular, I use tools from probability theory and information theory to gain insight in agent design and analysis. 
+My research interest lies in decision-making under uncertainty. In particular, I use tools from probability theory and information theory to gain insight in agent design and analysis. 
 
 Contact
 ======
