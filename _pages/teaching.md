@@ -11,7 +11,7 @@ redirect_from:
 
 Teaching Experience
 ======
-I was a teaching assitant for: 
+I was a teaching assistant for: 
 * Reinforcement Learning: Frontiers, MS&E 338.  
 * Reinforcement Learning: Behaviors and Applications, EE277. 
 * Fundamentals of Data Science: Prediction, Inference, Causality, MS&E 226. 
@@ -23,9 +23,9 @@ I was a teaching assitant for:
 Professional Services 
 ======
 I was a reviewer for: 
-* Neural Information Processing Systems (NeurIPS) 2022, 2023
-* International Conference on Machine Learning (ICML) 2022, 2023
-* International Conference on Artificial Intelligence and Statistics (AISTATS) 2022
+* Neural Information Processing Systems (NeurIPS) 2022, 2023. 
+* International Conference on Machine Learning (ICML) 2022, 2023. 
+* International Conference on Artificial Intelligence and Statistics (AISTATS) 2023. 
 
 
 Diversity and Inclusion 
