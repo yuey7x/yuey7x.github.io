@@ -20,7 +20,7 @@ I was a teaching assistant for:
 * Probabilistic Analysis, MS&E 120. 
 
 
-Professional Services 
+Professional Service 
 ======
 I was a reviewer for: 
 * Neural Information Processing Systems (NeurIPS) 2022, 2023. 
