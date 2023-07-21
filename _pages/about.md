@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD candidate at Stanford University, where I’m part of the Operations Research group in the [Department of Management Science and Engineering](https://msande.stanford.edu/). I’m advised by [Benjamin Van Roy](https://web.stanford.edu/~bvr/) and [Kuang Xu](https://kuangxu.org). Previously, I received a B.A. degree in mathematics with a minor in economics and a minor in management sciences from the Massachusetts Institute of Technology. 
+I am a fifth-year PhD candidate at Stanford University, where I’m part of the Operations Research group in the [Department of Management Science and Engineering](https://msande.stanford.edu/). I’m advised by [Benjamin Van Roy](https://web.stanford.edu/~bvr/) and [Kuang Xu](https://kuangxu.org). Previously, I received a B.A. degree in mathematics with a minor in economics and a minor in management sciences from the Massachusetts Institute of Technology (MIT). 
 
 Research Interests
 ======
@@ -18,9 +18,11 @@ Contact
 ======
 Email: yueyl [at] stanford.edu
 
-Activities
+Outreach
 ======
-* Stanford Graduate Society of Women Engineers, Secretary & Professional Development Chair, 2021-Present. 
-* Feiyu Theatre, active member, 2022-Present. 
-* MIT Undergraduate Society for Women in Mathematics, Secretary & Webmaster, 2010-2012. 
+* Stanford Graduate Society of Women Engineers (GradSWE), Secretary & Professional Development Chair, 2021-23.
+* Stanford Women in Math Mentoring (SWIMM), Mentor, 2022-23. 
+* Stanford Office of Accessible Education, Tutor.  
+* MIT Disability and Access Services, Tutor.
+
 
