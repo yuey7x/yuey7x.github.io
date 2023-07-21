@@ -26,11 +26,3 @@ I was a reviewer for:
 * Neural Information Processing Systems (NeurIPS) 2022, 2023. 
 * International Conference on Machine Learning (ICML) 2022, 2023. 
 * International Conference on Artificial Intelligence and Statistics (AISTATS) 2023. 
-
-
-Diversity and Inclusion 
-======
-* Secretary and Professional Development Chair, Graduate Society for Women Engineers (GradSWE), Stanford University, 2021-23.
-* Mentor, Stanford Women in Math Mentoring (SWIMM), 2022-23. 
-* Tutor, Office of Accessible Education, Stanford University.  
-* Tutor, Disability and Access Services, Massachusetts Institute of Technology.  
