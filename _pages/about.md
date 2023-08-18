@@ -12,7 +12,7 @@ I am a fifth-year PhD candidate at Stanford University, where I’m part of the 
 
 Research Interests
 ======
-My research interest lies broadly at the interface of machine learning and operations research, with a focus on designing and analyzing effective and scalable reinforcement learning agents for complex environments. To this end, I leverage tools from probability theory and information theory to build theoretical foundation and gain insights for agent design. Additionally, I exploit the capabilities of deep neural networks to ensure scalability and efficiency for practically motivated problems. 
+My research interest lies broadly at the interface of machine learning and operations research, with a focus on designing and analyzing effective and scalable reinforcement learning agents for complex environments. To this end, I leverage tools from probability theory and information theory to build theoretical foundation and gain insights for agent design. 
 
 Contact
 ======
