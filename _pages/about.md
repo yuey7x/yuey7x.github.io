@@ -10,6 +10,8 @@ redirect_from:
 
 I am a fifth-year PhD candidate at Stanford University, where I’m part of the [Operations Research](https://or.stanford.edu/) group in the [Department of Management Science and Engineering](https://msande.stanford.edu/). I’m advised by [Benjamin Van Roy](https://web.stanford.edu/~bvr/) and [Kuang Xu](https://gsb-faculty.stanford.edu/kuang-xu/). Previously, I received a B.A. degree in mathematics with a minor in economics and a minor in management sciences from the Massachusetts Institute of Technology (MIT). 
 
+**I am on the 2023-2024 academic job market.**
+
 Research Interests
 ======
 My research interest lies broadly at the interface of machine learning and operations research, with a focus on designing and analyzing effective and scalable reinforcement learning agents for complex environments. To this end, I leverage tools from probability theory and information theory to build theoretical foundation and gain insights for agent design. 
