@@ -21,5 +21,5 @@ Publications
   * A preliminary version appears in International Conference on Artificial Intelligence and Statistics (AISTATS) 2023. 
   * Presented at 2022 INFORMS Annual Meeting, Stanford University MS&E Rising Stars Workshop 2023, AISTATS 2023. 
 * **Yueyang Liu**, Adithya M. Devraj, Benjamin Van Roy, and Kuang Xu, [Gaussian Imagination in Bandit Learning](https://arxiv.org/abs/2201.01902), 2022.
-  * "Bayesian agents remain effective when instantiated with sufficiently diffuse prior and likelihood distributions." 
+  * "Bayesian agents remain effective when instantiated with sufficiently diffuse Gaussian prior and likelihood distributions." 
   
