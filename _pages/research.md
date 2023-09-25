@@ -25,4 +25,5 @@ Publications
   * Under review at *Management Science*. 
 * **Yueyang Liu**, Adithya M. Devraj, Benjamin Van Roy, and Kuang Xu, [Gaussian Imagination in Bandit Learning](https://arxiv.org/abs/2201.01902), 2022.
   * "Bayesian agents remain effective when instantiated with sufficiently diffuse Gaussian prior and likelihood distributions." 
-  
+* Zheqing Zhu, **Yueyang Liu**, Kuang Xu, and Benjamin Van Roy, Non-Stationary Neural Contextual Bandit Learning, 2023.
+  * "We propose the first agent that is scalable and prioritizes lasting information via a deep neural network-based approach." 
