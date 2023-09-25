@@ -14,7 +14,9 @@ I am a fifth-year PhD candidate at Stanford University, where I’m part of the 
 
 Research Interests
 ======
-My research interest lies broadly at the interface of machine learning and operations research. Specifically, I design and analyze **machine learning** agents that can **continually acquire knowledge** to tackle **practical operations problems** over an extended lifetime. 
+My research interest lies broadly at the interface of machine learning and operations research. Specifically, I design and analyze machine learning agents that can continually acquire knowledge to tackle practical operations problems over an extended lifetime. To this end, I leverage tools from probability theory, stochastic modeling, information theory, and deep learning, etc. 
+
+Key words: *sequential decision making*, *reinforcement learning*, *continual learning*, *machine learning*, *non-stationary environments*, *model misspecification*, *practical applications*, *personalized recommendation*. 
 
 Contact
 ======
