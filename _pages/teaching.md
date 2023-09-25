@@ -22,7 +22,4 @@ I was a teaching assistant for:
 
 Professional Service 
 ======
-I was a reviewer for: 
-* Neural Information Processing Systems (NeurIPS) 2022, 2023. 
-* International Conference on Machine Learning (ICML) 2022, 2023. 
-* International Conference on Artificial Intelligence and Statistics (AISTATS) 2023. 
+I was a reviewer for: ICML 2022 2023, NeurIPS 2022 2023, AISTATS 2023. 
