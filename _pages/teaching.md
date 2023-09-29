@@ -22,9 +22,11 @@ Teaching Experience
 **Guest Lecturer, Stanford University:**
 * Reinforcement Learning: Frontiers, MS&E 338.
 
-**Tutor, Stanford University,** Office of Accessible Education
+**Tutor, Stanford University,** [Office of Accessible Education](https://oae.stanford.edu/)
+* Introduction to Stochastic Modeling, MS&E 121. 
 
-**Tutor, Massachusetts Institute of Technology,** Disability and Access Services
+**Tutor, Massachusetts Institute of Technology,** [Disability and Access Services](https://studentlife.mit.edu/das)
+* Introduction to Probability and Statistics, 18.05. 
 
 Professional Service 
 ======
