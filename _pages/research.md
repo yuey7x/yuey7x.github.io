@@ -23,9 +23,10 @@ Publications
 * Saurabh Kumar, Henrik Marklund, Ashish Rao, Yifan Zhu, Hong Jun Jeon, **Yueyang Liu**, Benjamin Van Roy, [Continual Learning as Computationally Constrained Reinforcement Learning](https://arxiv.org/abs/2307.04345), 2023.
   * "An agent shall aim to maximize long-term average reward subject to computational constraints."
   * Under review at *Foundations and Trends in Machine Learning*
-* Zheqing Zhu, **Yueyang Liu**, Kuang Xu, and Benjamin Van Roy, Non-Stationary Contextual Bandit Learning via Neural Predictive Ensemble Sampling, 2023.
-  * "We propose the first agent that is scalable and prioritizes lasting information, via a deep neural network-based approach. We evaluate our agent on personalized recommendation datasets."
 * **Yueyang Liu**, Adithya M. Devraj, Benjamin Van Roy, and Kuang Xu, [Gaussian Imagination in Bandit Learning](https://arxiv.org/abs/2201.01902), 2022.
   * "Bayesian agents remain effective when instantiated with sufficiently diffuse Gaussian prior and likelihood distributions."
   * To be submmitted. 
+* Zheqing Zhu, **Yueyang Liu**, Kuang Xu, and Benjamin Van Roy, Non-Stationary Contextual Bandit Learning via Neural Predictive Ensemble Sampling, 2023.
+  * "We propose the first agent that is scalable and prioritizes lasting information, via a deep neural network-based approach. We evaluate our agent on personalized recommendation datasets."
+
 
