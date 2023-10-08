@@ -15,7 +15,7 @@ I am a final-year PhD candidate at Stanford University, where I’m part of the 
 Research Interests
 ======
 
-I design and analyze **continual learning** agents, machine learning agents that can continually acquire knowledge to achieve desired behaviors over an extended lifetime. To this end, I leverage tools from probability theory, stochastic modeling, information theory, etc. I also work to specialize agent design principles to specific **applications in operations**, leveraging deep neural networks. 
+I design and analyze **continual learning** agents, machine learning agents that can continually acquire knowledge to tackle **decision making** challenges over an extended lifetime. To this end, I leverage tools from probability theory, stochastic modeling, information theory, etc. I also work to specialize agent design principles to specific **applications in operations**, such as recommendation systems, developing algorithms that are efficient and scalable. 
 
 Contact
 ======
