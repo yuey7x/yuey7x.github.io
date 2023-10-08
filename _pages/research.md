@@ -28,5 +28,6 @@ Publications
   * To be submmitted. 
 * Zheqing Zhu, **Yueyang Liu**, Kuang Xu, and Benjamin Van Roy, Non-Stationary Contextual Bandit Learning via Neural Predictive Ensemble Sampling, 2023.
   * "We propose the first agent that is scalable and prioritizes lasting information, via a deep neural network-based approach. We evaluate our agent on personalized recommendation datasets."
+  * Submitted. 
 
 
