@@ -13,7 +13,7 @@ Publications
 ======
 * **Yueyang Liu**, Xu Kuang, and Benjamin Van Roy, [Non-Stationary Bandit Learning via Predictive Sampling](https://arxiv.org/abs/2205.01970), 2022.
   * "An agent should prioritize seeking lasting information."
-  * Presented at 2022 INFORMS Annual Meeting, Stanford University MS&E Rising Stars Workshop 2023, AISTATS 2023. 
+  * Presented at 2022 INFORMS Annual Meeting, Stanford University MS&E Rising Stars Workshop 2023. 
   * A preliminary version appears in International Conference on Artificial Intelligence and Statistics (AISTATS) 2023.
   * Under review at *Management Science*.
 * **Yueyang Liu**, Xu Kuang, and Benjamin Van Roy, [A Definition of Non-Stationary Bandits](https://arxiv.org/abs/2302.12202), 2023.
