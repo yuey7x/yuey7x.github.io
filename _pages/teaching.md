@@ -31,3 +31,11 @@ Teaching Experience
 Professional Service 
 ======
 I was a reviewer for: ICML 2022 2023, NeurIPS 2022 2023, AISTATS 2023. 
+
+Outreach
+======
+* Stanford Graduate Society of Women Engineers (GradSWE), Secretary & Professional Development Chair, 2021-23.
+* Stanford Women in Math Mentoring (SWIMM), Mentor, 2022-23. 
+* Stanford Office of Accessible Education, Tutor.
+* MIT Undergraduate Society for Women in Mathematics (USWIM), Secretary & Webmaster.
+* MIT Disability and Access Services, Tutor.
