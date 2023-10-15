@@ -21,12 +21,10 @@ Contact
 ======
 Email: yueyl [at] stanford.edu
 
-Outreach
+Upcoming Talks
 ======
-* Stanford Graduate Society of Women Engineers (GradSWE), Secretary & Professional Development Chair, 2021-23.
-* Stanford Women in Math Mentoring (SWIMM), Mentor, 2022-23. 
-* Stanford Office of Accessible Education, Tutor.
-* MIT Undergraduate Society for Women in Mathematics (USWIM), Secretary & Webmaster.
-* MIT Disability and Access Services, Tutor.
+"Exploration in Non-Stationary Bandits", 2023 INFORMS Annual Meeting
+* Monday 10/16, 2:15-2:30PM, CC-North 123
+
 
 <a href="https://clustrmaps.com/site/1bwek" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=000000&w=a&t=tt&d=WSR-EUF_yfrzxwA_vWWKcLNEWn7Q_Ev9pNTvsTq8KhM&co=ffffff" /></a>
