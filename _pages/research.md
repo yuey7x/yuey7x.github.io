@@ -27,7 +27,7 @@ Algorithms and Theory
 Empirical and Applied Work 
 ======
 * Zheqing Zhu, **Yueyang Liu**, Kuang Xu, and Benjamin Van Roy, [Non-Stationary Contextual Bandit Learning via Neural Predictive Ensemble Sampling](https://arxiv.org/abs/2310.07786), 2023.
-  * "We propose the first agent that is both scalable and prioritizes lasting information, via a deep neural network-based approach. Experiments with real-world recommendation systems data show that our method achieves SOTA."
+  * "We design the first algorithm that is both scalable and prioritizes lasting information, based on deep neural networks. Experiments with real-world recommendation systems data show that our method achieves SOTA."
   * Submitted. 
 
 Monograph 
