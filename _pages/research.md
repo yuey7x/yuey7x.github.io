@@ -29,5 +29,5 @@ Empirical and Applied Work
 Monograph 
 ======
 * Saurabh Kumar, Henrik Marklund, Ashish Rao, Yifan Zhu, Hong Jun Jeon, **Yueyang Liu**, Benjamin Van Roy, [Continual Learning as Computationally Constrained Reinforcement Learning](https://arxiv.org/abs/2307.04345), 2023.
-  * Under review at *Foundations and Trends in Machine Learning*
+  * Under review at *Foundations and Trends in Machine Learning*.
 
