@@ -19,7 +19,7 @@ Algorithms and Theory
   * Presented at Stanford Data Science Conference 2023, SIAM Conference on Optimization 2023, Experimentation and Causal Inference in the Tech Sector Workshop 2023. 
   * To be submitted to *Management Science*.
 * **Yueyang Liu**, Adithya M. Devraj, Benjamin Van Roy, and Kuang Xu, [Gaussian Imagination in Bandit Learning](https://arxiv.org/abs/2201.01902), 2022.
-  * To be submmitted. 
+  * To be submmitted to *Annals of Operations Research* 
 
 Empirical and Applied Work 
 ======
