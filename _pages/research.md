@@ -14,7 +14,7 @@ Algorithms and Theory
 * **Yueyang Liu**, Xu Kuang, and Benjamin Van Roy, [Non-Stationary Bandit Learning via Predictive Sampling](https://arxiv.org/abs/2205.01970), 2022.
   * Presented at INFORMS Annual Meeting 2022, MS&E Rising Stars Workshop 2023
   * A preliminary version appears in *International Conference on Artificial Intelligence and Statistics (AISTATS) 2023*
-  * Under review at *Management Science*
+  * Major revision at *Management Science*
 * **Yueyang Liu**, Xu Kuang, and Benjamin Van Roy, [A Definition of Non-Stationary Bandits](https://arxiv.org/abs/2302.12202), 2023.
   * Presented at Stanford Data Science Conference 2023, SIAM Conference on Optimization 2023, Experimentation and Causal Inference in the Tech Sector Workshop 2023
   * To be submitted to *Management Science*
