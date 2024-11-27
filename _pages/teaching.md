@@ -11,7 +11,8 @@ redirect_from:
 
 Fall 2024
 ======
-**BUSI 395 Data Analytics** 
+**Instructor, Rice University:** 
+* Data Analytics, BUSI 395.
 
 
 Teaching Experience
