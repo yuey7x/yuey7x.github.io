@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of [Operations Management](https://business.rice.edu/faculty-research/research/operations-management) at [Rice University, Jones Graduate School of Business](https://business.rice.edu/). 
+I am an Assistant Professor of [Operations Management](https://business.rice.edu/faculty-research/research/operations-management) at Rice University, Jones Graduate School of Business. 
 
 Previously, I received my PhD from Stanford University, where I was part of the [Operations Research](https://or.stanford.edu/) group in the [Department of Management Science and Engineering](https://msande.stanford.edu/). I was advised by [Benjamin Van Roy](https://web.stanford.edu/~bvr/) and [Kuang Xu](https://gsb-faculty.stanford.edu/kuang-xu/). Before coming to Stanford, I received a B.A. degree in mathematics with a minor in economics and a minor in management sciences from the Massachusetts Institute of Technology (MIT). 
 
