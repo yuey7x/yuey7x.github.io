@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Fall 2024
+======
+**BUSI 395 Data Analytics** 
+
+
 Teaching Experience
 ======
 **Teaching Asssistant, Stanford University:** 
