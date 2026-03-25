@@ -28,9 +28,9 @@
         .h-timeline td { padding: 0 30px; vertical-align: bottom; min-width: 140px; }
         .h-timeline .above-row td { vertical-align: bottom; padding-bottom: 8px; }
         .h-timeline .line-row td { position: relative; height: 14px; }
-        .h-timeline .line-row td::before { content: ''; position: absolute; top: 50%; left: 0; right: 0; height: 2px; background: #999; }
-        .h-timeline .line-row td:first-child::before { background: linear-gradient(to right, rgba(153,153,153,0), #999); }
-        .h-timeline .line-row td:last-child::before { background: linear-gradient(to left, rgba(153,153,153,0), #999); }
+        .h-timeline .line-row td::before { content: ''; position: absolute; top: 50%; left: 0; right: 0; height: 2px; background: #333; }
+        .h-timeline .line-row td:first-child::before { left: -18px; background: linear-gradient(to right, rgba(51,51,51,0) 0%, #333 30%, #333 100%); }
+        .h-timeline .line-row td:last-child::before { background: linear-gradient(to left, rgba(51,51,51,0) 0%, #333 30%, #333 100%); }
         .h-timeline .dot { width: 10px; height: 10px; background: #333; border-radius: 50%; position: relative; z-index: 1; }
         .h-timeline .below-row td { vertical-align: top; padding-top: 8px; }
         .h-timeline-title { font-weight: bold; font-size: 0.95em; }
@@ -127,7 +127,7 @@
             <td>
                 <div class="h-timeline-title">MIT</div>
                 <div class="h-timeline-detail"><i>Undergraduate</i></div>
-                <div class="h-timeline-detail">B.S. in Math, minors in Econ, Management Science</div>
+                <div class="h-timeline-detail">B.S. in Mathematics, minor in Econ, minor in Management Sciences</div>
             </td>
         </tr>
         <!-- Dot row with line -->
